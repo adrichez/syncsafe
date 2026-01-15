@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1><span style="color: #6bafae;">Copia y mueve carpetas de forma segura y controlada usando Bash y rsync</span></h1>
+  <h1><span style="color: #83bfbe;">Copia y mueve carpetas de forma segura y controlada usando Bash y rsync</span></h1>
 
   <hr style="border:none; height:0.3px; background-color:#777; width:65%; margin:30px auto 35px auto;">
 
@@ -23,8 +23,8 @@
     <a href="## 💻 Instalación">Instalación</a> • 
     <a href="## 🚀 Uso">Uso</a> • 
     <a href="## 📝 Notas">Notas</a> • 
-    <a href="## 📌 Opcional">Opcional</a>
-    <a href="## 🔧 Licencia">Licencia</a>
+    <a href="## 📌 Opcional">Opcional</a> • 
+    <a href="## 📬 Contacto">Contacto</a>
   </p>
 </div>
 
@@ -214,7 +214,12 @@ syncsafe
 
 ---
 
-## 🔧 Licencia
+## 📬 Contacto
 
-Este proyecto es de código abierto bajo la **Licencia MIT**.
-Libre para usar, modificar y compartir.
+Si quieres contactar conmigo:  
+
+- 📧 Email: [asanca33@gmail.com](mailto:asanca33@gmail.com)  
+- 📞 Teléfono: [+34 673 49 99 51](tel:+34673499951)  
+- 📍 Ubicación: Granada, España.
+
+¡Estaré encantado de ayudarte con cualquier duda o sugerencia! 😊
